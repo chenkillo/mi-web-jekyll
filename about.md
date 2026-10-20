@@ -1,7 +1,7 @@
-  ---
-   layout: default
-   title: About
-   ---
-   # About page
+---
+layout: default
+title: About
+---
+# About page
 
-   This page tells you a little bit about me.
+Esta página habla algo más de mi.
