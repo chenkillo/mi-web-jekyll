@@ -1,6 +1,6 @@
----
-layout: post
-author: ted
----
+   ---
+   layout: post
+   author: jill
+   ---
 
-Texto de ejemplo del tercer post.
+   El kiwi es marrón por fuera y verde por dentro.
