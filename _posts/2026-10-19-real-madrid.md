@@ -1,11 +1,13 @@
 ---
-# Real Madrid Club de Fútbol
+layout: post
+title: "Real Madrid Club de Fútbol"
+---
 
 ## Historia del club
 
 El Real Madrid es uno de los clubes **más laureados** de la historia del fútbol.
-Fue fundado el *6 de marzo de 1902* con el nombre de Madrid Football Club, y en>
-el rey Alfonso XIII le concedió el título de "Real". Desde 1947 juega como loca>
+Fue fundado el *6 de marzo de 1902* con el nombre de Madrid Football Club, y en 1920
+el rey Alfonso XIII le concedió el título de "Real". Desde 1947 juega como local en el
 estadio Santiago Bernabéu, situado en la ciudad de `Madrid`.
 
 Momentos clave de su historia:
@@ -19,7 +21,7 @@ Momentos clave de su historia:
 
 ## Títulos
 
-Estos son los principales trofeos del club, según las fuentes consultadas en oc>
+Estos son los principales trofeos del club, según las fuentes consultadas en octubre de 2026:
 
 ```python
 titulos = {
@@ -49,7 +51,7 @@ El club es el máximo ganador de la Champions League y de LaLiga.
 - **Francisco Gento**: ganó seis Copas de Europa, un récord
 - **Raúl González**: símbolo del club durante más de una década
 - **Iker Casillas**: portero y capitán, ganó tres Champions
-- **Cristiano Ronaldo**: máximo goleador histórico del club y cuatro Champions >
+- **Cristiano Ronaldo**: máximo goleador histórico del club y cuatro Champions con el Madrid
 - **Karim Benzema**: Balón de Oro en 2022
 
 ## Curiosidades
@@ -62,16 +64,13 @@ El club es el máximo ganador de la Champions League y de LaLiga.
 ## Enlaces
 
 - Web oficial del club: [Real Madrid](https://www.realmadrid.com/)
-- Más información en el [documento de detalles](docs/detalles.md)
 
 ## Imágenes
 
 Imagen local (carpeta `assets`) de la fachada principal del estadio:
 
-![Fachada principal del estadio del Real Madrid]![Fachada principal del estadio del Real Madrid]({{ '/assets/mi-imagen.png' | relative_url }}){: width="500"}
+![Fachada principal del estadio del Real Madrid]({{ '/assets/mi-imagen.png' | relative_url }}){: width="500"}
 
 Imagen de Wikimedia Commons sobre mi instituto, el IES Clara del Rey, situado en Madrid, la misma ciudad del club:
 
-![IES Clara del Rey, en el barrio de Prosperidad (Madrid)](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
-
-
+![IES Clara del Rey, en el barrio de Prosperidad (Madrid)](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg){: width="500"}
